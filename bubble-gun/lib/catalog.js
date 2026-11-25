@@ -17,4 +17,4 @@ export const AVATARS = ['🫧', '🎈', '🍬', '🍭', '🧁', '🦄', '🌸', 
 export const AVATAR_COLORS = ['pink', 'blue', 'mint', 'lemon', 'lilac', 'peach'];
 
 // Nomes que ninguém pode registrar.
-export const RESERVED_USERNAMES = ['admin', 'administrador', 'bubblegun', 'bubble_gun', 'suporte', 'support', 'root', 'moderacao'];
+export const RESERVED_USERNAMES = ['admin', 'administrador', 'bubblegum', 'bubble_gum', 'suporte', 'support', 'root', 'moderacao'];
