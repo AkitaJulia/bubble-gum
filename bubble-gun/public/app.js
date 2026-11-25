@@ -31,7 +31,7 @@ const ICON = {
 };
 const icon = (name) => raw(ICON[name]);
 
-const LOGO = raw(`<svg viewBox="0 0 96 96" aria-hidden="true"><defs><radialGradient id="lg" cx="35%" cy="30%" r="75%"><stop offset="0" stop-color="#ffd9ec"/><stop offset=".55" stop-color="#ff7eb6"/><stop offset="1" stop-color="#ff4f9a"/></radialGradient></defs><circle cx="48" cy="50" r="38" fill="url(#lg)" stroke="#2b1238" stroke-width="5"/><path d="M27 42a22 22 0 0 1 14-16" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/><circle cx="31" cy="55" r="4" fill="#fff"/><circle cx="76" cy="14" r="8" fill="#7fd8ff" stroke="#2b1238" stroke-width="4"/><circle cx="86" cy="32" r="5" fill="#ffe66d" stroke="#2b1238" stroke-width="3.5"/></svg>`);
+const LOGO = raw(`<img src="/imagens/logo.png" alt="Bubble Gum" class="logo-img">`);
 
 // ───────────────────────── datas e textos (sempre no horário de São Paulo) ─────────────────────────
 
