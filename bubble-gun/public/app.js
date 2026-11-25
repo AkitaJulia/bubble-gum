@@ -199,7 +199,7 @@ async function route() {
 const authShell = (title, body) => html`
   <section class="auth">
     <div class="auth-head">
-      <div class="logo">${LOGO}<div class="wordmark">Bubble Gun</div></div>
+      <div class="logo">${LOGO}<div class="wordmark">BubbleGum</div></div>
       <p>${title}</p>
     </div>
     ${body}
